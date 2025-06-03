@@ -15,7 +15,10 @@ Special thanks to:
 **Awaitimg Permission**  - XXX at Cal Poly Pomona
 
 
-**Awaiting Permission** - XX at Cal Poly Pomona
+**Awaiting Permission** - XXX at Cal Poly Pomona
 
 
-**Awaiting Permission** - XX at CSUF
+**Awaiting Permission** - XXX at CSUF
+
+
+**Awaiting Permission** - XXX at University of Illinois-Urbana Champaign 
