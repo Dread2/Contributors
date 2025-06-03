@@ -12,10 +12,10 @@ Special thanks to:
 - Advanced Waveform Analysis of Upper-Airway Resistance Syndrome (UARS) Flow Limitations on NIV-PAP Ventilators Using AI/ML, CNNs, and Digital Signal Processing
 - Modeling Hemodynamic and Cardiac Function Alterations During Veno-Arterial ECMO Support
 
-**Awaitimg Permissiom**  - XXX at Cal Poly Pomona
+**Awaitimg Permission**  - XXX at Cal Poly Pomona
 
 
-**Awaiting Permisisom** - XX at Cal Poly Pomona
+**Awaiting Permission** - XX at Cal Poly Pomona
 
 
 **Awaiting Permission** - XX at CSUF
