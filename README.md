@@ -1,6 +1,4 @@
-
-# Thank You to Our Supporters and Collaborators
-
+# Thank you to our supporters and collaborators 
 Dear all,
 
 I want to take a moment to thank the incredible individuals who have shown interest in or contributed directly to the progress of my projects.
