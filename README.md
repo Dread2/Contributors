@@ -3,7 +3,7 @@
 
 Dear all,
 
-I want to take a moment to thank the incredible individuals who have shown interest in or contributed directly to the progress of my projects. Your time, energy, ideas, and encouragement have made a significant impact.
+I want to take a moment to thank the incredible individuals who have shown interest in or contributed directly to the progress of my projects.
 
 Special thanks to:
 
