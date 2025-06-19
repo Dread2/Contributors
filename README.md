@@ -5,7 +5,7 @@ I want to take a moment to thank the incredible individuals who have shown inter
 
 Special thanks to:
 
-### Biomedical-Emgineering
+### Biomedical-Engineering
 **Hector Gardea** – Electrical Engineering Major from CSULA
 - Advanced Waveform Analysis of Upper Airway Resistance Syndrome (UARS) on NIV-PAP Ventilators Using AI/ML, CNNs, and Digital Signal Processing for Adaptivr Pressure Support
 - Modeling Hemodynamic and Cardiac Function Alterations During Veno-Arterial ECMO Support
