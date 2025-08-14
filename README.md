@@ -9,7 +9,7 @@ Special thanks to:
 ### Biomedical Engineering
 
 **Physicians**  
-- Dr. Christopher K. Cheng, MD – Board certified in Clinical Neurophysiology, Neurology, Sleep Medicine  
+Dr. Christopher K. Cheng, MD – Board certified in Clinical Neurophysiology, Neurology, and Sleep Medicine  
 - Advanced Waveform Analysis of Upper Airway Resistance Syndrome (UARS) on NIV-PAP Ventilators Using AI/ML, CNNs, and Digital Signal Processing for Adaptive Pressure Suppor
 
 **Hector Gardea** – Electrical Engineering Major from CSULA  
