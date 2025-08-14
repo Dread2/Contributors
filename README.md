@@ -10,10 +10,10 @@ Special thanks to:
 
 **Physicians**  
 Dr. Christopher K. Cheng, MD – Board certified in Clinical Neurophysiology, Neurology, and Sleep Medicine  
-- Advanced Waveform Analysis of Upper Airway Resistance Syndrome (UARS) on NIV-PAP Ventilators Using AI/ML, CNNs, and Digital Signal Processing for Adaptive Pressure Support
+- Advanced Waveform Analysis of Real-World NIV-PAP Ventilator Data Using AI/ML for Clinician-Validated Diagnosis, Titration, and Adaptive Pressure Support in Sleep-Disordered Breathing
 
 **Hector Gardea** – Electrical Engineering Major from CSULA  
-- Advanced Waveform Analysis of Upper Airway Resistance Syndrome (UARS) on NIV-PAP Ventilators Using AI/ML, CNNs, and Digital Signal Processing for Adaptive Pressure Support  
+- Advanced Waveform Analysis of Real-World NIV-PAP Ventilator Data Using AI/ML for Clinician-Validated Diagnosis, Titration, and Adaptive Pressure Support in Sleep-Disordered Breathing
 - Modeling Hemodynamic and Cardiac Function Alterations During Veno-Arterial ECMO Support  
 
 **Awaiting Permission**  
